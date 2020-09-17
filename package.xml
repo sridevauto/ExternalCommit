@@ -3,6 +3,7 @@
     <version>48.0</version>
     <types>
         <members>AccountHandler</members>
+        <members>ChangePasswordController</members>
         <name>ApexClass</name>
     </types>
 </Package>
