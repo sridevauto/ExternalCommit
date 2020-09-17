@@ -4,6 +4,7 @@
     <types>
         <members>AccountHandler</members>
         <members>ChangePasswordController</members>
+        <members>CommunitiesLandingControllerTest</members>
         <name>ApexClass</name>
     </types>
 </Package>
